@@ -1,0 +1,7 @@
+body {
+  margin: 20px;
+}
+
+.incidents > * {
+  margin-bottom: 10px;
+}
